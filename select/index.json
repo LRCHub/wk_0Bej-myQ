@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "パプリカ",
+  "base_artist": "Foorin",
+  "createdAt": "2026-03-10T13:38:36.540819Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "パプリカ",
+      "artist": "BiS",
+      "has_synced": true,
+      "path": "select/01_パプリカ_BiS.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "パプリカ",
+      "artist": "BiS (Japan)",
+      "has_synced": true,
+      "path": "select/02_パプリカ_BiS_(Japan).lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "パプリカ",
+      "artist": "Kenshi Yonezu",
+      "has_synced": true,
+      "path": "select/03_パプリカ_Kenshi_Yonezu.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "パプリカ",
+      "artist": "米津玄師",
+      "has_synced": true,
+      "path": "select/04_パプリカ_米津玄師.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "パプリカ",
+      "artist": "Kenshi Yonezu",
+      "has_synced": true,
+      "path": "select/05_パプリカ_Kenshi_Yonezu.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "パプリカ",
+      "artist": "Kenshi Yonezu",
+      "has_synced": true,
+      "path": "select/06_パプリカ_Kenshi_Yonezu.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "パプリカ (Paprika)",
+      "artist": "米津玄師",
+      "has_synced": true,
+      "path": "select/07_パプリカ_(Paprika)_米津玄師.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "パプリカ",
+      "artist": "Foorin",
+      "has_synced": true,
+      "path": "select/08_パプリカ_Foorin.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "パプリカ",
+      "artist": "Maaya Sakamoto",
+      "has_synced": false,
+      "path": "select/09_パプリカ_Maaya_Sakamoto.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "パプリカ",
+      "artist": "米津玄师 Kenshi Yonezu",
+      "has_synced": true,
+      "path": "select/10_パプリカ_米津玄师_Kenshi_Yonezu.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "パプリカ - Paprika",
+      "artist": "Kenshi Yonezu",
+      "has_synced": true,
+      "path": "select/11_パプリカ_-_Paprika_Kenshi_Yonezu.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "パプリカ",
+      "artist": "坂本真綾",
+      "has_synced": false,
+      "path": "select/12_パプリカ_坂本真綾.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "白虎野の娘 (パプリカ・エンディングテーマ)",
+      "artist": "平沢進",
+      "has_synced": true,
+      "path": "select/13_白虎野の娘_(パプリカ・エンディングテーマ)_平沢進.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "パプリカ",
+      "artist": "Kenshi Yonezu (米津玄師)",
+      "has_synced": true,
+      "path": "select/14_パプリカ_Kenshi_Yonezu_(米津玄師).lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "パプリカ",
+      "artist": "米津 玄師",
+      "has_synced": true,
+      "path": "select/15_パプリカ_米津_玄師.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "パプリカ",
+      "artist": "Foorin",
+      "has_synced": false,
+      "path": "select/pl_01_パプリカ_Foorin.txt"
+    }
+  ]
+}
